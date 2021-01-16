@@ -1,5 +1,4 @@
 # SW_Arduino
-=============
 
 belong to konkuk univ.
 --------------------------
